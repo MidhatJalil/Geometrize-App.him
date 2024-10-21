@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+
+    height: 30rem;
+    width: 20rem;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: 10rem 10rem ;
+    display: block;
+    align-items: center;
+
+
+    
+
+}
+
+h2{
+    padding: 3rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+#input{
+    /* padding: 3rem; */
+    margin: 1rem 5rem;
+    height: 2rem;
+   
+
+
+}
+
+#result{
+    /* margin-top: 2rem; */
+    margin: 1rem 5rem;
+}
+
+button{
+    height: 3rem;
+    width: 5rem;
+    margin-left: 7rem;
+    border-radius: 2px;
+}
+
+button:hover{
+    color: aquamarine;
+    background-color: rgb(141, 141, 226);
+}
